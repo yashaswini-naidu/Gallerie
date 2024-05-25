@@ -8,7 +8,3 @@
 ## API used
 - Unsplash API
 
-## Color Palette
--
-
-## Font
